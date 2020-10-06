@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        int arr[] = {64, 34, 25, 12, 22, 11, 90};
+        int arr[] = {50, 24, 10, 2, 20, 8, 95};
 
         System.out.print("Array: ");
         for (int i: arr){
